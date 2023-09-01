@@ -1,0 +1,55 @@
+body {
+    background: rgb(0, 255, 242);
+    }
+
+.fig1 {
+    text-align: center;
+}
+
+h1 {
+    color:rgb(255, 255, 0);
+    font-family: Gill Sans, sans-serif; 
+    text-decoration: underline overline;
+    background-color: blueviolet;
+}
+
+figcaption {
+    font-family: Blippo, fantasy; 
+    color:blueviolet;
+}
+
+
+#t1 {
+    color:blueviolet;
+    font-family: Impact, fantasy;
+    font-style: normal;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.destaque {
+    font-size:200%;
+    background: yellow;
+}
+
+a {
+    color:blueviolet;
+    text-decoration: none;
+}
+
+a:hover {
+    color:yellow;
+}
+
+p3 {
+    font-style: italic;
+}
+
+a[href="https://www.instagram.com/ivictor.hugo/"], [href="https://github.com/VictorHugX"]{
+    background-color: rgb(255, 255, 255);
+}
+    
+footer {
+    text-align: center;
+    background: yellow;
+}
